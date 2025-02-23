@@ -7,8 +7,6 @@ Este roadmap cobrirá:
 - Desenvolvimento de algoritmos supervisionados para HFT
 - Infraestrutura para execução de HFT em hardware otimizado
 
-Vou compilar todos os recursos necessários e retorno assim que o roadmap estiver pronto.
-
 # Roadmap Completo – Especialista em HFT com LLMs em FPGA (0-100)
 
 Este roadmap orienta o desenvolvimento desde **iniciante (nível 0)** até **especialista (nível 100)** em **High-Frequency Trading (HFT)** utilizando **Large Language Models (LLMs)** em **FPGAs** com algoritmos supervisionados. A jornada está dividida em fases progressivas, cobrindo desde os fundamentos de mercados financeiros e computação até a implementação prática de modelos de IA em hardware de altíssimo desempenho. Cada fase inclui explicações claras, recursos gratuitos recomendados (cursos, tutoriais, papers) e ferramentas *open-source* sugeridas. 
